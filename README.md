@@ -1,4 +1,4 @@
-  Hi, I’m Jonathan Michel. I'm currently a postdoctoral research associate at the Rochester Institute of Technology. Before that,
+  Hi, I’m Jonathan Michel. Until September 2025, I was a postdoctoral research associate at the Rochester Institute of Technology. Before that,
 I was a graduate student at Georgia Tech, where I earned a Ph.D. in Physics, with a focus on Soft Matter. I also hold a B.S. in physics
 from Carnegie Mellon.
 
