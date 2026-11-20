@@ -17,7 +17,7 @@ I’m interested in ...
     structures, and the acceleration of large-scale, coarse-grained computational models of soft solids and complex fluids.
  
 How to reach me:
--   I can be contacted at jmichel (dot) stl (at) gmail (dot) com, or at my (current) professional address, jamsps (at) rit (dot) edu.
+-   I can be contacted at jmichel (dot) stl (at) gmail (dot) com.
 
 <!---
 jmichelstl/jmichelstl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
